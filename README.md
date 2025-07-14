@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+LAHS 28'
+he/him
+I'm currently working on a debate tool project.
