@@ -20,10 +20,6 @@ Welcome to my GitHub profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogerfang28&show_icons=true&theme=default)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rogerfang28)
-
 ## 🌐 Connect with me
 
 **Email:** yunchengroger@gmail.com
