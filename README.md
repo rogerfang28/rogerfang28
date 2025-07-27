@@ -24,8 +24,7 @@ Welcome to my GitHub profile!
 
 **Email:** yunchengroger@gmail.com
 **Discord:** `zbeastmaster`
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@yunchengroger)
-
+**YouTube:** [youtube.com/@yunchengroger](https://youtube.com/@yunchengroger)
 ---
 
 _ai generated this template_
